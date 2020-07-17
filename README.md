@@ -2,7 +2,7 @@
 
 ### by Chandrateja Reddy
 
-This is the project that we finished after 12th week of studying **Machine Learning** from scratch.
+
 
 <p align="center">
 <img width="880" height="450" src="https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/ca.gif">
