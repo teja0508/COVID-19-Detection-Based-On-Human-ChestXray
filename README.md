@@ -5,7 +5,7 @@
 This is the project that we finished after 12th week of studying **Machine Learning** from scratch.
 
 <p align="center">
-<img width="880" height="450" src="https://s3.amazonaws.com/dsg.files.app.content.prod/gereports/wp-content/uploads/2017/05/01182345/lungs.gif">
+<img width="880" height="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.accuweather.com%2Fen%2Fhealth-wellness%2Fstudy-on-new-coronavirus-says-warmer-weather-may-slow-covid-19-spread-and-cooler-weather-may-accelerate-it%2F707177&psig=AOvVaw1EzZwtOSfVGIgkwSdWmMhK&ust=1595077438204000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCOicKs1OoCFQAAAAAdAAAAABAD">
 </p>
 
 ## INTRODUCTION
