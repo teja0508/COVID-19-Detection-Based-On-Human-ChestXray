@@ -1,5 +1,5 @@
 # COVID-19-Detection-Based-On-Human-ChestXray
-# The Human-ChestXray-based-COVID-detection project
+
 ### by Chandrateja Reddy
 
 This is the project that we finished after 12th week of studying **Machine Learning** from scratch.
