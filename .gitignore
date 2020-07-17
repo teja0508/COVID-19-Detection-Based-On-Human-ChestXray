@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.vscode/
+env/
+app/static/model/model.h5
