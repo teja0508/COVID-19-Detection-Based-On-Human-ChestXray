@@ -72,14 +72,16 @@ Our model has the AUC of **~97 %** for the train dataset and **~90 %** for the v
 
 ### 5. UI
 **Pages**
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m1.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m2.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m3.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m4.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m5.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m6.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m7.PNG)
-![alt text](https://github.com/teja0508/Human-ChestXray-based-COVID-detection19-/blob/master/app/static/img/background/m8.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m1.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m2.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m3.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m4.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m5.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m6.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m7.PNG)
+![alt text](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray/blob/master/app/static/img/background/m8.PNG)
+
+
 
 
 
